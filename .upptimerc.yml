@@ -1,19 +1,12 @@
 # Change these first
-owner: upptime # Your GitHub username
-repo: upptime # Your GitHub repository name
+owner: ifrs-sertao # Your GitHub username
+repo: status # Your GitHub repository name
 
 # Add your sites here
 sites:
   - name: Google
     url: https://www.google.com
   - name: Wikipedia
-    url: https://en.wikipedia.org
-  - name: Hacker News
-    url: https://news.ycombinator.com
-  - name: Broken Site
-    url: https://thissitedoesnotexist.com
-  - name: Secret Site
-    url: $SECRET_SITE
 
 status-website:
   status-website :
