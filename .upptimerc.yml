@@ -9,6 +9,10 @@ sites:
 
   - name: Moodle Sertão
     url: https://moodle.sertao.ifrs.edu.br
+    expectedStatusCodes:
+      - 200
+      - 201
+      - 404
     
   - name: Campus Digital
     url: https://campusdigital.sertao.ifrs.edu.br
