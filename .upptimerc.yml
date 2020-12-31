@@ -1,30 +1,35 @@
 # Change these first
-owner: ifrs-sertao # Your GitHub username
-repo: status # Your GitHub repository name
+owner: tiagojferreira-IFRS # Your GitHub username
+repo: status # Your Github repository name
 
 # Add your sites here
 sites:
-  - name: Google
-    url: https://www.google.com
+  - name: Site IFRS
+    url: https://ifrs.edu.br
+#   - name: Moodle IFRS Osorio
+#     url: https://moodle.osorio.ifrs.edu.br
+  - name: Sistrac
+    url: https://sistrac.osorio.ifrs.edu.br
+#   - name: Eventos IFRS Osorio
+#     url: https://eventos.osorio.ifrs.edu.br
+#  - name: Secret Site
+#    url: $SECRET_SITE
 
 status-website:
-  status-website :
-  baseUrl : status # onde "repo" é o nome do seu repositório
-  nome : Monitor IFRS Sertão
-  
   # Add your custom domain below, or remove the next line if you don't have a domain
-  #cname: demo.upptime.js.org
+#   cname: demo.upptime.js.org
   # Uncomment the following line if you don't have a custom domain and add your repo name
-  # baseUrl: /upptime
+  baseUrl: /status
 #   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
-#   name: Upptime
-#   introTitle: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
-#   introMessage: This is a sample status page which uses **real-time** data from our [GitHub repository](https://github.com/upptime/upptime). No server required — just GitHub Actions, Issues, and Pages. [**Get your own for free**](https://github.com/upptime/upptime)
-#   navbar:
-#     - title: Status
-#       href: /
-#     - title: GitHub
-#       href: https://github.com/$OWNER/$REPO
+  logoUrl: https://github.com/aweiand/status-ifrs-osorio/raw/master/logoifrs.gif
+  name: Status IFRS Osório
+  introTitle: "**Upptime** é um serviço de monitoramento do IFRS Osório interamente hospedado no GitHub."
+  introMessage: "DTI IFRS Osório"
+  navbar:
+    - title: Status
+      href: /
+    - title: GitHub
+      href: https://github.com/$OWNER/$REPO
 
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
