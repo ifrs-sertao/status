@@ -1,17 +1,16 @@
 # Change these first
-owner: tiagojferreira-IFRS # Your GitHub username
+owner: ifrs-sertao # Your GitHub username
 repo: status # Your GitHub repository name
 
 # Add your sites here
 sites:
   - name: Google
     url: https://www.google.com
-  - name: Wikipedia
 
 status-website:
   status-website :
-  baseUrl : /status # onde "repo" é o nome do seu repositório
-  nome : Seu site de status
+  baseUrl : status # onde "repo" é o nome do seu repositório
+  nome : Monitor IFRS Sertão
   
   # Add your custom domain below, or remove the next line if you don't have a domain
   #cname: demo.upptime.js.org
