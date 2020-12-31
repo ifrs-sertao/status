@@ -21,7 +21,7 @@ status-website:
   # Uncomment the following line if you don't have a custom domain and add your repo name
   baseUrl: /status
 #   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
-  #logoUrl: https://github.com/aweiand/status-ifrs-osorio/raw/master/logoifrs.gif
+  logoUrl: https://github.com/ifrs-sertao/status/blob/master/Logo-Campus-Horizontal.png
   name: Status IFRS Osório
   introTitle: "**Upptime** é um serviço de monitoramento do IFRS Osório interamente hospedado no GitHub."
   introMessage: "DTI IFRS Osório"
