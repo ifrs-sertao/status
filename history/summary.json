@@ -1,7 +1,7 @@
 [
   {
     "name": "Site IFRS",
-    "url": "https://ifrs.edu.br",
+    "url": "https://ifrs.edu.br/sertao",
     "icon": "https://favicons.githubusercontent.com/ifrs.edu.br",
     "slug": "site-ifrs",
     "status": "up",
@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 2297,
-    "timeDay": 2297,
-    "timeWeek": 2297,
-    "timeMonth": 2297,
-    "timeYear": 2297,
+    "time": 2187,
+    "timeDay": 2187,
+    "timeWeek": 2187,
+    "timeMonth": 2187,
+    "timeYear": 2187,
     "dailyMinutesDown": {}
   },
   {
@@ -23,18 +23,18 @@
     "icon": "https://favicons.githubusercontent.com/moodle.sertao.ifrs.edu.br",
     "slug": "moodle-sertao",
     "status": "down",
-    "uptime": "4.64%",
-    "uptimeDay": "4.64%",
-    "uptimeWeek": "4.64%",
-    "uptimeMonth": "4.64%",
-    "uptimeYear": "4.64%",
+    "uptime": "0.62%",
+    "uptimeDay": "0.62%",
+    "uptimeWeek": "0.62%",
+    "uptimeMonth": "0.62%",
+    "uptimeYear": "0.62%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2020-12-31": 0
+      "2020-12-31": 4
     }
   },
   {
@@ -48,11 +48,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 2004,
-    "timeDay": 2004,
-    "timeWeek": 2004,
-    "timeMonth": 2004,
-    "timeYear": 2004,
+    "time": 1698,
+    "timeDay": 1698,
+    "timeWeek": 1698,
+    "timeMonth": 1698,
+    "timeYear": 1698,
     "dailyMinutesDown": {}
   },
   {
@@ -61,18 +61,18 @@
     "icon": "https://favicons.githubusercontent.com/moodle.sertao.ifrs.edu.br",
     "slug": "sistemas-de-chamados",
     "status": "down",
-    "uptime": "8.10%",
-    "uptimeDay": "8.10%",
-    "uptimeWeek": "8.10%",
-    "uptimeMonth": "8.10%",
-    "uptimeYear": "8.10%",
+    "uptime": "0.82%",
+    "uptimeDay": "0.82%",
+    "uptimeWeek": "0.82%",
+    "uptimeMonth": "0.82%",
+    "uptimeYear": "0.82%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2020-12-31": 0
+      "2020-12-31": 4
     }
   }
 ]
