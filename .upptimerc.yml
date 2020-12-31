@@ -5,9 +5,8 @@ repo: status # Your Github repository name
 # Add your sites here
 sites:
   - name: Site IFRS
-    url: https://ifrs.edu.br
-#   - name: Moodle IFRS Osorio
-#     url: https://moodle.osorio.ifrs.edu.br
+    url: https://ifrs.edu.br/sertao
+
   - name: Moodle Sertão
     url: https://moodle.sertao.ifrs.edu.br
     
