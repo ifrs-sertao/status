@@ -8,12 +8,17 @@ sites:
     url: https://ifrs.edu.br
 #   - name: Moodle IFRS Osorio
 #     url: https://moodle.osorio.ifrs.edu.br
-  - name: Sistrac
-    url: https://sistrac.osorio.ifrs.edu.br
-#   - name: Eventos IFRS Osorio
-#     url: https://eventos.osorio.ifrs.edu.br
-#  - name: Secret Site
-#    url: $SECRET_SITE
+  - name: Moodle Sertão
+    url: https://moodle.sertao.ifrs.edu.br
+    
+  - name: Campus Digital
+    url: https://campusdigital.sertao.ifrs.edu.br
+    
+  - name: Sistemas de Chamados
+    url: https://moodle.sertao.ifrs.edu.br
+
+
+
 
 status-website:
   # Add your custom domain below, or remove the next line if you don't have a domain
@@ -22,9 +27,9 @@ status-website:
   baseUrl: /status
 #   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
   logoUrl: https://github.com/ifrs-sertao/status/blob/master/Logo-Campus-Horizontal.png
-  name: Status IFRS Osório
-  introTitle: "**Upptime** é um serviço de monitoramento do IFRS Osório interamente hospedado no GitHub."
-  introMessage: "DTI IFRS Osório"
+  name: Status IFRS Sertão
+  introTitle: "**Upptime** é um serviço de monitoramento do IFRS Sertão interamente hospedado no GitHub."
+  introMessage: "CTI IFRS Campus Sertão"
   navbar:
     - title: Status
       href: /
