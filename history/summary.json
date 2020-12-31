@@ -10,16 +10,16 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 2076,
-    "timeDay": 2076,
-    "timeWeek": 2076,
-    "timeMonth": 2076,
-    "timeYear": 2076,
+    "time": 2101,
+    "timeDay": 2101,
+    "timeWeek": 2101,
+    "timeMonth": 2101,
+    "timeYear": 2101,
     "dailyMinutesDown": {}
   },
   {
     "name": "Moodle Sertão",
-    "url": "http://moodle.sertao.ifrs.edu.br",
+    "url": "https://moodle.sertao.ifrs.edu.br",
     "icon": "https://favicons.githubusercontent.com/moodle.sertao.ifrs.edu.br",
     "slug": "moodle-sertao",
     "status": "down",
@@ -34,7 +34,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2020-12-31": 25
+      "2020-12-31": 32
     }
   },
   {
@@ -48,11 +48,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1700,
-    "timeDay": 1700,
-    "timeWeek": 1700,
-    "timeMonth": 1700,
-    "timeYear": 1700,
+    "time": 1664,
+    "timeDay": 1664,
+    "timeWeek": 1664,
+    "timeMonth": 1664,
+    "timeYear": 1664,
     "dailyMinutesDown": {}
   },
   {
@@ -61,18 +61,18 @@
     "icon": "https://favicons.githubusercontent.com/xn--suorte-qw7b.sertao.ifrs.edu.br",
     "slug": "sistemas-de-chamados",
     "status": "down",
-    "uptime": "0.11%",
-    "uptimeDay": "0.11%",
-    "uptimeWeek": "0.11%",
-    "uptimeMonth": "0.11%",
-    "uptimeYear": "0.11%",
+    "uptime": "8.97%",
+    "uptimeDay": "8.97%",
+    "uptimeWeek": "8.97%",
+    "uptimeMonth": "8.97%",
+    "uptimeYear": "8.97%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2020-12-31": 25
+      "2020-12-31": 29
     }
   }
 ]
