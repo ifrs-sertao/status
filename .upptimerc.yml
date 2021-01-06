@@ -13,8 +13,8 @@ sites:
   - name: Campus Digital
     url: https://campusdigital.sertao.ifrs.edu.br
     
-  - name: Sistemas de Chamados
-    url: https://suṕorte.sertao.ifrs.edu.br
+#   - name: Sistemas de Chamados
+#     url: https://suṕorte.sertao.ifrs.edu.br
 
 
 
