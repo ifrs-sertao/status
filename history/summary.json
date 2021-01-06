@@ -10,11 +10,11 @@
     "uptimeWeek": "99.24%",
     "uptimeMonth": "99.24%",
     "uptimeYear": "99.24%",
-    "time": 2001,
-    "timeDay": 1685,
-    "timeWeek": 2001,
-    "timeMonth": 2001,
-    "timeYear": 2001,
+    "time": 1974,
+    "timeDay": 1596,
+    "timeWeek": 1974,
+    "timeMonth": 1974,
+    "timeYear": 1974,
     "dailyMinutesDown": {
       "2020-12-31": 66
     }
@@ -36,7 +36,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2021-01-06": 920,
+      "2021-01-06": 921,
       "2021-01-05": 1440,
       "2021-01-04": 1440,
       "2021-01-03": 1440,
@@ -56,33 +56,13 @@
     "uptimeWeek": "99.24%",
     "uptimeMonth": "99.24%",
     "uptimeYear": "99.24%",
-    "time": 1644,
-    "timeDay": 1783,
-    "timeWeek": 1644,
-    "timeMonth": 1644,
-    "timeYear": 1644,
+    "time": 1666,
+    "timeDay": 1850,
+    "timeWeek": 1666,
+    "timeMonth": 1666,
+    "timeYear": 1666,
     "dailyMinutesDown": {
       "2020-12-31": 66
-    }
-  },
-  {
-    "name": "Sistemas de Chamados",
-    "url": "https://suṕorte.sertao.ifrs.edu.br",
-    "icon": "https://favicons.githubusercontent.com/xn--suorte-qw7b.sertao.ifrs.edu.br",
-    "slug": "sistemas-de-chamados",
-    "status": "down",
-    "uptime": "99.67%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "99.67%",
-    "uptimeMonth": "99.67%",
-    "uptimeYear": "99.67%",
-    "time": 0,
-    "timeDay": 0,
-    "timeWeek": 0,
-    "timeMonth": 0,
-    "timeYear": 0,
-    "dailyMinutesDown": {
-      "2020-12-31": 29
     }
   }
 ]
