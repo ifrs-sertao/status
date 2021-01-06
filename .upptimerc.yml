@@ -9,6 +9,7 @@ sites:
 
   - name: Moodle Sertão
     url: https://moodle.sertao.ifrs.edu.br
+    __dangerous__disable_verify_peer: true
     expectedStatusCodes:
       - 200
     
