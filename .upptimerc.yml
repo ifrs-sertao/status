@@ -19,6 +19,8 @@ sites:
   - name: Sistemas de Chamados
     url: https://suṕorte.sertao.ifrs.edu.br
     __dangerous__disable_verify_peer: true
+    expectedStatusCodes:
+      - 200
 
 
 
