@@ -23,6 +23,8 @@ sites:
     __dangerous__disable_verify_peer: true
     expectedStatusCodes:
       - 200
+    assignees:
+      - tiagojferreira-IFRS
 
 
 
