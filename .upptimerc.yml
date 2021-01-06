@@ -9,7 +9,6 @@ sites:
 
   - name: Moodle Sertão
     url: https://moodle.sertao.ifrs.edu.br
-    maxResponseTime: 5000
     
   - name: Campus Digital
     url: https://campusdigital.sertao.ifrs.edu.br
