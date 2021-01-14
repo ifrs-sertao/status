@@ -39,7 +39,8 @@ status-website:
   logoUrl: https://raw.githubusercontent.com/ifrs-sertao/status/master/img/logos/Instituto_Federal_Sertao_Refeito13.png
   name: Status IFRS Sertão
   introTitle: "**Upptime** é um serviço de monitoramento do IFRS Sertão interamente hospedado no GitHub."
-  introMessage: "CTI IFRS Campus Sertão"
+  introMessage: "O monitoramento externo permite verificar se os serviços gerenciados pela CTI IFRS Campus Sertão estão online. Sites offiline aparecerão no topo
+  em vermelho. Logo abaixo, site online em verde com opções de visualização das últimas 24 horas, 7 dias e assim por diante."
   navbar:
     - title: Status
       href: /
