@@ -6,6 +6,7 @@ repo: status # Your Github repository name
 sites:
   - name: Site IFRS
     url: https://ifrs.edu.br/sertao
+    logoUrl: img/logos/Instituto_Federal_Sertao_Refeito13.png
 
   - name: Moodle Sertão
     url: https://moodle.sertao.ifrs.edu.br
