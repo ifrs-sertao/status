@@ -19,7 +19,7 @@ sites:
     url: https://campusdigital.sertao.ifrs.edu.br
     
   - name: Sistemas de Chamados
-    url: https://suṕorte.sertao.ifrs.edu.br
+    url: https://suporte.sertao.ifrs.edu.br
     __dangerous__disable_verify_peer: true
     expectedStatusCodes:
       - 200
