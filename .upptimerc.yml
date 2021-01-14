@@ -36,7 +36,7 @@ status-website:
   # Uncomment the following line if you don't have a custom domain and add your repo name
   baseUrl: /status
 #   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
-  logoUrl: img/logos/Instituto_Federal_Sertao_Refeito13.png
+  logoUrl: https://raw.githubusercontent.com/ifrs-sertao/status/master/img/logos/Instituto_Federal_Sertao_Refeito13.png
   name: Status IFRS Sertão
   introTitle: "**Upptime** é um serviço de monitoramento do IFRS Sertão interamente hospedado no GitHub."
   introMessage: "CTI IFRS Campus Sertão"
