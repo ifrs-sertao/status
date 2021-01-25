@@ -6,15 +6,12 @@ repo: status # Your Github repository name
 sites:
   - name: Site IFRS
     url: https://ifrs.edu.br/sertao
-    
 
   - name: Moodle Sertão
     url: https://moodle.sertao.ifrs.edu.br
     __dangerous__disable_verify_peer: true
     expectedStatusCodes:
       - 200
-    assignees:
-      - tiagojferreira-IFRS
     
   - name: Campus Digital
     url: https://campusdigital.sertao.ifrs.edu.br
@@ -24,9 +21,7 @@ sites:
     __dangerous__disable_verify_peer: true
     expectedStatusCodes:
       - 200
-    assignees:
-      - tiagojferreira-IFRS
-      
+ 
   - name: CEUA
     url: http://ceua.sertao.ifrs.edu.br
 
