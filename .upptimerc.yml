@@ -26,6 +26,9 @@ sites:
       - 200
     assignees:
       - tiagojferreira-IFRS
+      
+  - name: CEUA
+    url: https://ceua.sertao.ifrs.edu.br
 
 
 
