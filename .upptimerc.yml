@@ -28,7 +28,7 @@ sites:
       - tiagojferreira-IFRS
       
   - name: CEUA
-    url: https://ceua.sertao.ifrs.edu.br
+    url: http://ceua.sertao.ifrs.edu.br
 
 
 
