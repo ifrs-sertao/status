@@ -22,7 +22,7 @@ sites:
     expectedStatusCodes:
       - 200
  
-  - name: CEUA
+  - name: CEUA - Portal Comitê de Ética Animal
     url: http://ceua.sertao.ifrs.edu.br
 
 
