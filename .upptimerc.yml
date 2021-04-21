@@ -22,8 +22,8 @@ sites:
     expectedStatusCodes:
       - 200
  
-  - name: CEUA - Portal Comitê de Ética Animal
-    url: http://ceua.sertao.ifrs.edu.br
+  #- name: CEUA - Portal Comitê de Ética Animal
+   # url: http://ceua.sertao.ifrs.edu.br
     
   - name: Sistemas de Eleições
     url: https://voto.sertao.ifrs.edu.br
